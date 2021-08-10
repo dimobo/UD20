@@ -20,13 +20,6 @@ public class Saludador {
 	private JPanel panel;
 
 	/**
-	 * Launch the application.
-	 */
-	public static void main(String[] args) {
-		
-	}
-
-	/**
 	 * Create the application.
 	 */
 	public Saludador() {
